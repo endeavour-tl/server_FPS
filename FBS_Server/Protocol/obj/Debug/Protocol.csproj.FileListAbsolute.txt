@@ -1,0 +1,6 @@
+F:\Program Files (x86)\Unity\demoProject\FPS_demo\Assets\Plugins\Protocol.dll
+F:\Program Files (x86)\Unity\demoProject\FPS_demo\Assets\Plugins\Protocol.pdb
+F:\DATA\server\FBS_server\FBS_Server\Protocol\obj\Debug\Protocol.csproj.AssemblyReference.cache
+F:\DATA\server\FBS_server\FBS_Server\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+F:\DATA\server\FBS_server\FBS_Server\Protocol\obj\Debug\Protocol.dll
+F:\DATA\server\FBS_server\FBS_Server\Protocol\obj\Debug\Protocol.pdb
